@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<KALLAHARIKID>&theme=<dark>" />
+
+
 <!-- Actual text -->
 You can find me on [![LinkedIn][1.2]][1].
 
