@@ -2,9 +2,8 @@
 
 ![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KALLAHARIKID&repo=github-readme-stats)](https://github.com/KALLAHRIKID/github-readme-stats)
+![](https://img.shields.io/badge/C++-Light-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALLAHARIKID&layout=compact)](https://github.com/KALLAHARIKID/github-readme-stats)
 
 <!-- Actual text -->
 You can find me on [![LinkedIn][1.2]][1].
