@@ -2,6 +2,7 @@
 
 ![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALLAHARIKIDa&layout=compact)](https://github.com/KALLAHARIKID/github-readme-stats)
 
 <!-- Actual text -->
 You can find me on [![LinkedIn][1.2]][1].
