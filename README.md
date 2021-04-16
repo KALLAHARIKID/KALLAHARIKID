@@ -3,9 +3,12 @@
 ![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
 Tool && Technologys.
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pthyon-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 
 
 <!-- Actual text -->
