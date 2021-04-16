@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<KALLAHARIKID>&theme=<dark>" />
+![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
 
 <!-- Actual text -->
