@@ -2,6 +2,8 @@
 
 ![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KALLAHARIKID&repo=github-readme-stats)](https://github.com/KALLAHRIKID/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALLAHARIKID&layout=compact)](https://github.com/KALLAHARIKID/github-readme-stats)
 
 <!-- Actual text -->
