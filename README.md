@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Donavan, a Student of the University of Pretoria.
-Currently finishing my final year of Bsc Computer Science.
-I engoy gaming, sports, and messing around trying to get programs to compile.
+I'm Donavan, a graduate of BSc Computer Science from the University of Pretoria.
+I engoy gaming, sports, and expanding on my hobby of game development.
 
 ![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
