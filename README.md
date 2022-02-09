@@ -14,7 +14,7 @@ Tool && Technologys.
 ![](https://img.shields.io/badge/Code-Pthyon-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALLAHARIKID&theme=blue-green" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALLAHARIKID&layout=compact)](https://github.com/KALLAHARIKID/github-readme-stats)
 
 <!-- Actual text -->
 You can find me on [![LinkedIn][1.2]][1].
