@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Donavan, a graduate of BSc Computer Science from the University of Pretoria.
-I engoy gaming, sports, and expanding on my hobby of game development.
+I'm Donavan, a graduate of MSc Cyber Security from the University of Winchester and BSc Computer Science from the University of Pretoria.
 
 ![KALLAHARIKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLAHARIKID&show_icons=true&theme=dark)
 
